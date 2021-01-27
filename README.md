@@ -1,1 +1,5 @@
 # Kavanaugh-project
+
+Resources on U.S. Supreme Court nominations often lack the full texts of opinions related to nominees.  While news outlets and U.S. Senate Judiciary Committee materials often include major opinions and other papers, typically no institution or individual makes all of a nominees opinions publicly available and searchable.  This project was attempt to correct that situation and to see what tools were available to quickly gather, collect, and publish all relevant opinions in a simple, easy-to-use, publicly available website.
+
+The site uses Tipue Search(https://github.com/michael-milette/Tipue-Search) and a 12MB JSON file of opinions to enable search.  It also matches the results of the very fine analysis done by the Congressional Research Service (see: Michael Garcia, Cong. Research Serv., R45269, Judicial Opinions of Judge Brett M. Kavanaugh(https://fas.org/sgp/crs/misc/R45269.pdf), 2018) with the slip opinions available at the United States Court of Appeals District of Columbia Circuit and United States District Court for the District of Columbia. 
